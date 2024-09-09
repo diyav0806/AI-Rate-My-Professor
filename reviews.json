@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Smith",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Smith is an amazing professor who explains everything clearly."
+      },
+      {
+        "professor": "Prof. John Doe",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Good professor, but the exams are really tough."
+      },
+      {
+        "professor": "Dr. Laura Jones",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Lectures are decent, but could be more engaging."
+      },
+      {
+        "professor": "Prof. Michael Brown",
+        "subject": "History",
+        "stars": 5,
+        "review": "Super passionate about the subject and very approachable."
+      },
+      {
+        "professor": "Dr. Katherine Lee",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Hard to follow, and not very responsive to emails."
+      },
+      {
+        "professor": "Prof. David Garcia",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Insightful and provides great feedback on essays."
+      },
+      {
+        "professor": "Dr. James Wilson",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "One of the best teachers I've had. His exams are fair."
+      },
+      {
+        "professor": "Prof. Mary Patel",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Interesting material but can be a bit confusing at times."
+      },
+      {
+        "professor": "Dr. Richard Anderson",
+        "subject": "Economics",
+        "stars": 1,
+        "review": "Terrible at explaining concepts and exams are unfair."
+      },
+      {
+        "professor": "Prof. Jessica Carter",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Good professor, but a lot of reading assignments."
+      },
+      {
+        "professor": "Dr. Steven Harris",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Knowledgeable, but often goes off on tangents."
+      },
+      {
+        "professor": "Prof. Sarah Lewis",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Incredibly enthusiastic and really makes the class fun."
+      },
+      {
+        "professor": "Dr. Brian Clark",
+        "subject": "Psychology",
+        "stars": 2,
+        "review": "Not very engaging, and the lectures are often boring."
+      },
+      {
+        "professor": "Prof. Amy Davis",
+        "subject": "Statistics",
+        "stars": 4,
+        "review": "Helpful in office hours, but the material is difficult."
+      },
+      {
+        "professor": "Dr. Kevin Adams",
+        "subject": "Engineering",
+        "stars": 5,
+        "review": "Excellent professor with real-world experience. Highly recommend."
+      },
+      {
+        "professor": "Prof. Olivia Martin",
+        "subject": "Anthropology",
+        "stars": 3,
+        "review": "Interesting content, but the lectures are a bit dry."
+      },
+      {
+        "professor": "Dr. Thomas Nguyen",
+        "subject": "Linguistics",
+        "stars": 4,
+        "review": "Very knowledgeable, but sometimes hard to follow."
+      },
+      {
+        "professor": "Prof. Rebecca Turner",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Passionate about the environment and it shows in her teaching."
+      },
+      {
+        "professor": "Dr. George White",
+        "subject": "Philosophy",
+        "stars": 1,
+        "review": "Unorganized and never on time. Would not recommend."
+      },
+      {
+        "professor": "Prof. Emma Thompson",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Good professor who really understands the subject, but the workload is heavy."
+      }
+    ]
+  }
+  
